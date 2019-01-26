@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - SwiftSignalKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - SwiftSignalKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  SwiftSignalKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  SwiftSignalKit: 38d2034b65a741f8fef0c950a90428743f9702ef
+
+PODFILE CHECKSUM: 079d3ab81645847fc2250d14683c5838e109d4ec
+
+COCOAPODS: 1.5.3
