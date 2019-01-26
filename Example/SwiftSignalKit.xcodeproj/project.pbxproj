@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0283FE60411B061D280FD50F /* SwiftSignalKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftSignalKit.podspec; path = ../SwiftSignalKit.podspec; sourceTree = "<group>"; };
+		0283FE60411B061D280FD50F /* SwiftSignalKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftSignalKit.podspec; path = ../SwiftSignalKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4F06327120FF2F1C6FC46340 /* Pods_SwiftSignalKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftSignalKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* SwiftSignalKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftSignalKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -40,11 +40,11 @@
 		607FACE51AFB9204008FA782 /* SwiftSignalKit_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftSignalKit_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		73A6806EFC6153E7234A93F1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		73A6806EFC6153E7234A93F1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		80056204390F8DB834AED811 /* Pods-SwiftSignalKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSignalKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSignalKit_Tests/Pods-SwiftSignalKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8B81AE786D984F8985CA758D /* Pods_SwiftSignalKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftSignalKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		903A4B2EBDCBB132042495B1 /* Pods-SwiftSignalKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSignalKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSignalKit_Example/Pods-SwiftSignalKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9881AF833DFF1591B605C61F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9881AF833DFF1591B605C61F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A35120A6D0208F9499558323 /* Pods-SwiftSignalKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSignalKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSignalKit_Example/Pods-SwiftSignalKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		ED3C99D07C574C122C520644 /* Pods-SwiftSignalKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSignalKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSignalKit_Tests/Pods-SwiftSignalKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
