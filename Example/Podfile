@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftSignalKit_Example' do
+  pod 'SwiftSignalKit', :path => '../'
+
+  target 'SwiftSignalKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
